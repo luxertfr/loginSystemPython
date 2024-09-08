@@ -1,0 +1,2 @@
+a, $2b$12$3lSu8bjYGVfRRyPIP9i1d.mVj3BHs8pK.60Qm5Ja.yqtqsrHuGHnG, admin
+d, $2b$12$xvYSLblEkWTJPJLx0NA4V.N2LW..L6w7dOv/oIlfucGeGEP25OWiu, user
